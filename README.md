@@ -6,3 +6,6 @@ This repository is built step by step in the tutorial.
 This readme file was writed by me.
 
 Hello The sky is so blue.
+
+I love everything in the world except Turkey.
+Yeahey.
