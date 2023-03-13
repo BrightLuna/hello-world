@@ -7,5 +7,7 @@ This readme file was writed by me.
 
 Hello The sky is so blue.
 
+In my case that is impossible. Please forgive me.
+
 I love everything in the world except Turkey.
 Yeahey.
